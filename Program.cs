@@ -29,3 +29,13 @@ string converterRealParaDolar(double valorDaCompraEmReais)
 // Você pode comprar $ XXX,XX.
 Console.WriteLine(converterRealParaDolar(10.00));
 
+//PARTE TEÓRICA MA MESA DE TRABALHO
+//1. Com base no código, calcule a conversão do real para dólar, 
+//estabeleça um valor mínimo e máximo para compra na transação.
+//R:Segundo o código acima, o valor de compra mínima é de 100 dólares
+
+//2. Responda, quais recursos foram utilizados para resolução desse problema?
+//R: Operadores, variáveis, constantes, função e retorno de função.
+
+//3. Responda, quais tipos de variável é retornada  pela função nessa atividade?
+//R: string e number
