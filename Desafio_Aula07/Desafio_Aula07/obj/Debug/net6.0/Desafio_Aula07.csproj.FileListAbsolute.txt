@@ -1,0 +1,15 @@
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/bin/Debug/net6.0/Desafio_Aula07
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/bin/Debug/net6.0/Desafio_Aula07.deps.json
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/bin/Debug/net6.0/Desafio_Aula07.runtimeconfig.json
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/bin/Debug/net6.0/Desafio_Aula07.dll
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/bin/Debug/net6.0/Desafio_Aula07.pdb
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.csproj.AssemblyReference.cache
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.AssemblyInfoInputs.cache
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.AssemblyInfo.cs
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.csproj.CoreCompileInputs.cache
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.dll
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/refint/Desafio_Aula07.dll
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.pdb
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/Desafio_Aula07.genruntimeconfig.cache
+/Users/isabelcatao/Desktop/Aula7-Funcoes-eCondicionais/Desafio_Aula07/Desafio_Aula07/obj/Debug/net6.0/ref/Desafio_Aula07.dll
