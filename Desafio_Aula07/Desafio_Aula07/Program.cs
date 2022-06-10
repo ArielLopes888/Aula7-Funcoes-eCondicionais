@@ -58,9 +58,9 @@ Resposta: Obesidade (IMC = 36,33)
  * 
  * 3. Assinale todas as afirmações que forem verdadeiras, quais as diferenças das condicionais switch e if?
 
-* (V ou F) A instrução if verifica a igualdade e expressão lógica. Por outro lado, o switch verifica apenas a igualdade. 
-* (V ou F) A instrução if avalia o tipo inteiro, caractere, ponteiro ou ponto flutuante ou tipo booleano. Por outro lado, a instrução switch avalia apenas um caractere ou um tipo de dados inteiro.
-* (V ou F) É possível ter várias instruções com if e switch para múltipla escolha de instruções.
-* (V ou F) É possível ter várias instruções if para múltipla escolha de instruções. No switch, você só tem uma expressão para as várias opções.
+* (V) A instrução if verifica a igualdade e expressão lógica. Por outro lado, o switch verifica apenas a igualdade. 
+* (V) A instrução if avalia o tipo inteiro, caractere, ponteiro ou ponto flutuante ou tipo booleano. Por outro lado, a instrução switch avalia apenas um caractere ou um tipo de dados inteiro.
+* (F) É possível ter várias instruções com if e switch para múltipla escolha de instruções.
+* (V) É possível ter várias instruções if para múltipla escolha de instruções. No switch, você só tem uma expressão para as várias opções.
  * 
  */
