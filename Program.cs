@@ -35,7 +35,7 @@ Console.WriteLine(converterRealParaDolar(10.00));
 //R:Segundo o código acima, o valor de compra mínima é de 100 dólares
 
 //2. Responda, quais recursos foram utilizados para resolução desse problema?
-//R: Operadores, variáveis, constantes, função e retorno de função.
+//R: Operadores, variáveis, constantes, funções, parâmetros e retorno de função.
 
 //3. Responda, quais tipos de variável é retornada  pela função nessa atividade?
-//R: string e number
+//R: string
